@@ -1,0 +1,37 @@
+﻿defalt
+/f"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\1.pdf|C:\_VM_Shared\ProgettiComuni\WFAItextPDF\2.pdf" /out"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\testx.pdf" /data"a|b|c|d|e" /logo"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\logo.jpg"
+
+test
+/f"\\vsrv2k8bsn2\e$\KnoS712\Sites\KnoS Giraudi\files\local.kfs-unit\0000000000.9999999999.0.kfs-part\0000\018\0000018797_0001.PDF" /out"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\testx.pdf" /data"COPIA CERTIFICATO valida per 0.000000 MT di|Materiale TUQU50502 QUADRO  50 x  50 x  2  GREZZO|fornito con D.D.T. n. 3570 del Jul 20 2012 12:00AM|alla ditta C 16539 GREGO GIOVANNI" /logo"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\logo.jpg"
+
+
+
+
+
+
+/f"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\testnew.pdf" /out"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\testx.pdf" /data"COPIA CERTIFICATO valida per 0.000000 MT di|Materiale TUQU50502 QUADRO  50 x  50 x  2  GREZZO|fornito con D.D.T. n. 3570 del Jul 20 2012 12:00AM|alla ditta C 16539 GREGO GIOVANNI" /logo"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\logoGiraudi.jpg" /firma"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\firmaGiraudi.jpg" /drc"3/5/2001"
+
+
+
+/f"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\testnew.pdf" /out"C:\_VM_Shared\ProgettiComuni\WFAItextPDF\testx.pdf" /data"Firmato Digitalmente Da|Alfredo De Angelo"
+
+
+C:\DOCUME~1\Riccardo\IMPOST~1\Temp\TEMP.PDF
+Object reference not set to an instance of an object.
+C:\DOCUME~1\Riccardo\IMPOST~1\Temp\TEMP.PDF
+\\vsrv2k8bsn2\e$\KnoS712\Sites\KnoS Giraudi\files\local.kfs-unit\0000000000.9999999999.0.kfs-part\0000\018\0000018797_0001.PDF
+P:\PERSVB802\LEONE\logoCertificati.jpg
+COPIA CERTIFICATO valida per 0.000000 MT di|Materiale TUQU50502 QUADRO  50 x  50 x  2  GREZZO|fornito con D.D.T. n. 3570 del Jul 20 2012 12:00AM|alla ditta C 16539 GREGO GIOVANNI
+
+
+
+
+
+
+
+C:\DOCUME~1\Riccardo\IMPOST~1\Temp\TEMP.PDF
+Object reference not set to an instance of an object.
+C:\DOCUME~1\Riccardo\IMPOST~1\Temp\TEMP.PDF
+\\vsrv2k8bsn2\e$\KnoS712\Sites\KnoS Giraudi\files\local.kfs-unit\0000000000.9999999999.0.kfs-part\0000\018\0000018797_0001.PDF
+P:\PERSVB802\LEONE\logoCertificati.jpg
+COPIA CERTIFICATO valida per 0.000000 MT di|Materiale TUQU50502 QUADRO  50 x  50 x  2  GREZZO|fornito con D.D.T. n. 3570 del Jul 20 2012 12:00AM|alla ditta C 16539 GREGO GIOVANNI

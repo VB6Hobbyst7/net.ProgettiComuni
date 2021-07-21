@@ -1,0 +1,26 @@
+﻿<h3>ITCMLastPubbs</h3>
+<p class="Contributor">
+	Italcom S.p.A. <br />
+	<a href="mailto:mpiergianni@italcom.biz">mpiergianni@italcom.biz</a><br />
+	<a href=http://www.italcom.biz>http://www.italcom.biz</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the ITCMLastPubbs</h3>
+	<p class="Owner">
+		<b>Version 02.00.03</b><br /><br />
+	</p>
+	<p>Visualizza le ultime pubblicazioni in ordine di data decrescente</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Inserita clausola per escludere dalla ricerca i documenti non abrogati</li>
+			<li>Ordinamento e visualizzazione Data Creazione anzichè Data Modifica</li>
+			<li>Visualizzazione di pubblicazioni esclusivamente in stato Pubblicata(2)</li>
+			<li>Utilizzo del contesto proprio anzichè riferimento</li>
+			<li>Visualizzazione di pubblicazioni in base ai Destinatari della Modifica anzichè ai Destinatari della Pubblicazione</li>
+			<li>Visualizzazione Tooltip</li>
+			<li>NEW - Fix tooltip quote char</li>
+	</ul>
+	
+</div>
